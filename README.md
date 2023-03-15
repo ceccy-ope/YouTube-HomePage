@@ -6,4 +6,13 @@ Still in the process of improving myself.
 
 Check out the published site here:
 
+
+
  https://ceccy-ope.github.io/YouTube-HomePage/
+
+Here's an image of the output:
+
+
+![Youtube](images/youtubepic.PNG)
+
+
